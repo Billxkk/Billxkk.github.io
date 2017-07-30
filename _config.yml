@@ -1,0 +1,48 @@
+encoding: UTF-8
+
+permalink: /:year/:month/:day/:title.html
+paginate: 5
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+highlighter: rouge
+
+
+# 作者信息
+author: 
+  name: 许克军
+  email: 1063115997@qq.com
+  link: http://Billxkk.github.io/
+  weibo:
+  github: https://github.com/Billxkk
+  github_username:  Billxkk
+  weibo_username:  Billxkk
+
+# 站点信息
+title : Billxkk
+description: 
+
+url: http://Billxkk.github.io/
+rss_url: /feed.xml
+
+# gavatar头像及Favicon
+gavatar : /assets/img/gavatar.png
+favicon : /assets/img/favicon.png
+
+# disqus 设置
+#disqus:
+#  shortname: 
+
+#profile 个人信息
+
+profile_desc : Billxkk<br>Java Developer<br>
+
+# 首页除了最新文章外显示分类
+cates: 
+- Essay
+
+# 中文本地化
+locals: 
+   newest : 最新文章
