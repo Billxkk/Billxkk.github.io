@@ -11,7 +11,7 @@ permalink: /pages/about.html
 	<br>
 	<p>
 	博客用<a href="http://jekyllrb.com/"><code>jekyll</code></a>（可将纯文本转化为静态网站和博客的语言）,<code>html</code>,<code>css</code>等构建。博客部署在<code>github</code>服务器上，前端采用<code>bootstrap</code>栅格式布局，可自适应移动端浏览器。
-	写博客的目的很单纯，就是记笔记，方便在不同终端上随时查看，偶尔也会记录身边发生的事情。
+
 	</p>
 	<br>
 	
@@ -63,15 +63,15 @@ permalink: /pages/about.html
 	<table class="table table-striped">
 		<tr>
 			<td>姓  名：</td>    
-			<td>高  扬 （1991）</td>
+			<td>许克军 </td>
 		</tr>
 		<tr>
 			<td>学  历：</td>    
-			<td>研究生</td>
+			<td>本科在读</td>
 		</tr>
 		<tr>
 			<td>学  校：</td>    
-			<td>南京大学计算机科学技术系</td>
+			<td>合肥工业大学</td>
 		</tr>
 	</table>
 
@@ -84,7 +84,7 @@ permalink: /pages/about.html
 				Email：
 			</td>  
 			<td>
-				gycoderhh@gmail.com			
+				1063115997@qq.com
 			</td>
 		</tr>
 
@@ -93,7 +93,7 @@ permalink: /pages/about.html
 				github：
 			</td>  
 			<td>
-				<a href="{{ site.author.github }}" target="_blank">github.com/BladeMasterCoder</a>
+				<a href="{{ site.author.github }}" target="_blank">github.com/Billxkk</a>
 			</td>  
 		</tr>
 
@@ -102,7 +102,7 @@ permalink: /pages/about.html
 				微博：
 			</td> 
 			<td>
-				<a href="{{ site.author.weibo }}" target="_blank">weibo.com/u/2344559062</a>
+				<a href="{{ site.author.weibo }}" target="_blank"></a>
 			</td> 
 		</tr>
 	</table>
@@ -113,7 +113,7 @@ permalink: /pages/about.html
 	<hr>
 	<br>
 	<p>
-	在校学生，一只码农，喜欢跑步，经常游泳，立志要为彰显码农正面形象做出贡献。
+	
 	</p>
 	<br>
 
@@ -121,7 +121,7 @@ permalink: /pages/about.html
 	<hr>
 	<br>
 	<p>
-	世界这么大 到处去看看
+	
 	</p>
 	<br>
 	<br> 
