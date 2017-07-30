@@ -1,6 +1,10 @@
-# fragment跳转，实现传递参数和结果回传
-
-@(Fragment)
+---
+layout: post
+title: fragment跳转，实现传递参数和结果回传
+category: 安卓
+tags:  android
+description: 
+---
 
 
 **效果实现：**
